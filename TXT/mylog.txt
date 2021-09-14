@@ -3,3 +3,4 @@
 # LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W0 10 L03 GitHub related
 ZCZC W1 240 L04 Assignmets W1 related
+ZCZC W2 200 L70 Working on SDA
