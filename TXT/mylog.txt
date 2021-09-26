@@ -7,3 +7,6 @@ ZCZC W2 200 L70 Working on SDA
 ZCZC W2 250 L12 watching cyber security
 ZCZC W2 20 L22 Quiz
 ZCZC W2 80 L06 GSGS about os assignments
+ZCZC W3 90 L09 Weekly Assignments
+ZCZC W3 123 L06 GSGS, reading assignments
+ZCZC W3 120 L70 studying Linear Algebra

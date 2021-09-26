@@ -9,3 +9,5 @@ Links below might come handy for learning this course. Go check it out!
 This cheat sheet about regex is really helpful for those who can't always remember everything.
 ### 2. [Sed CheatSheet](https://quickref.me/sed "Sed CheatSheet")
 This sed cheat sheet contains sed commands and some common sed tricks.
+### 3. [All there is about FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse "FUSE documentation")
+This link contains all explanation about Filesystem in USErspace
