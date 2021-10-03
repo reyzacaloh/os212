@@ -10,4 +10,5 @@ This cheat sheet about regex is really helpful for those who can't always rememb
 ### 2. [Sed CheatSheet](https://quickref.me/sed "Sed CheatSheet")
 This sed cheat sheet contains sed commands and some common sed tricks.
 ### 3. [All there is about FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse "FUSE documentation")
+### 4. [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm "C - Pointers")         a bit general  explanation about C  Pointers and some examples 
 This link contains all explanation about Filesystem in USErspace

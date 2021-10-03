@@ -10,3 +10,8 @@ ZCZC W2 80 L06 GSGS about os assignments
 ZCZC W3 90 L09 Weekly Assignments
 ZCZC W3 123 L06 GSGS, reading assignments
 ZCZC W3 120 L70 studying Linear Algebra
+ZCZC W4 20 L22 Quiz
+ZCZC W4 560 L02 Zoom Meeting related
+ZCZC W4 90 L06 GSGS about pointer
+ZCZC W4 80 L09 Doing OS check list
+ZCZC W4 400 L70 studyung for linear algebra, SDA, PBP, etc
