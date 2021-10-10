@@ -15,3 +15,9 @@ ZCZC W4 560 L02 Zoom Meeting related
 ZCZC W4 90 L06 GSGS about pointer
 ZCZC W4 80 L09 Doing OS check list
 ZCZC W4 400 L70 studyung for linear algebra, SDA, PBP, etc
+ZCZC W5 545 L02 Zoom Meeting related
+ZCZC W5 105 L06 GSGS about virtual memory in OS
+ZCZC W5 20 L22 Quiz
+ZCZC W5 450 L70 studying for other courses
+ZCZC W5 140 L73 Gaming
+ZCZC W5 90 L32 watching study video in Youtube  

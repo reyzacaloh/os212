@@ -12,3 +12,7 @@ This sed cheat sheet contains sed commands and some common sed tricks.
 ### 3. [All there is about FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse "FUSE documentation")
 ### 4. [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm "C - Pointers")         a bit general  explanation about C  Pointers and some examples 
 This link contains all explanation about Filesystem in USErspace
+### 5. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/ "Virtual Memory in OS")
+a bit explanation about Virtual Memory in ur OS
+### 6. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm "OS - Virtual Memory")
+a bit explanation about Page Replacement Algorithm
