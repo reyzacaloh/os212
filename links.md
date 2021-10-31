@@ -16,3 +16,5 @@ This link contains all explanation about Filesystem in USErspace
 a bit explanation about Virtual Memory in ur OS
 ### 6. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm "OS - Virtual Memory")
 a bit explanation about Page Replacement Algorithm
+###7. [Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8 "Threads and Concurrency") 
+some general explanation regarding threads and concurrency
