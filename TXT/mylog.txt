@@ -22,7 +22,13 @@ ZCZC W5 450 L70 studying for other courses
 ZCZC W5 140 L73 Gaming
 ZCZC W5 90 L32 watching study video in Youtube
 ZCZC W6 600 L02 Zoom Meeting related
-ZCZC W6 120 watching OS recording about threads and concurrency
+ZCZC W6 120 L32 watching OS recording about threads and concurrency
 ZCZC W6 20 L22 Quiz
 ZCZC W6 700 L70 Studying other courses for midterm exam
 ZCZC W6 80 L06 GSGS about concurrency  
+ZCZC W7 630 L02 Zoom Meeting related
+ZCZC W7 120 L32 Watching OS recording & OS related
+ZCZC W7 20 L22 Quiz
+ZCZC W7 70 L06 GSGS about Sync
+ZCZC W7 400 L70 study for other courses
+ZCZC W7 100 L73 Gaming
