@@ -20,3 +20,5 @@ a bit explanation about Page Replacement Algorithm
 some general explanation regarding threads and concurrency
 ###8. [Synchronization]( https://www.studytonight.com/operating-system/process-synchronization "Synchronization")
 intro to Process Synchronization
+###9. [Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm "Scheduling")
+Operating System - Process Scheduling
