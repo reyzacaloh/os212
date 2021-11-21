@@ -22,3 +22,5 @@ some general explanation regarding threads and concurrency
 intro to Process Synchronization
 ###9. [Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm "Scheduling")
 Operating System - Process Scheduling
+###10. [Systemd](https://systemd.io/ "Systemd")
+a bit general explanation about systemd and bootloader
