@@ -24,3 +24,5 @@ intro to Process Synchronization
 Operating System - Process Scheduling
 ###10. [Systemd](https://systemd.io/ "Systemd")
 a bit general explanation about systemd and bootloader
+###11. [Operating System Input Output](https://www.w3schools.in/operating-system-tutorial/input-output/ "Operating System Input Output")
+General explanation about operating system input output

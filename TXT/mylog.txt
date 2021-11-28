@@ -42,3 +42,8 @@ ZCZC W9 670 L02 Zoom meeting related
 ZCZC W9 90 L32 Watching OS recording & related
 ZCZC W9 70 L06 GSGS about systemd & bootloader
 ZCZC W9 430 L70 Study for other courses
+ZCZC W10 1200 L20 Assignment W10
+ZCZC W10 610 L02 Zoom meeting related
+ZCZC W10 70 L32 Watching OS recording & related
+ZCZC W10 75 L06 GSGS about I/O & Programming
+ZCZC W10 410 L70 Study for other courses
